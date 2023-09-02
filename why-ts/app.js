@@ -38,6 +38,7 @@ fetchUser().then(function (response) {
   // response. 뒤에 자동으로 name, email, address가 뜨는것을 확인할 수 있다.
 
   // 타입스크립트로 작성할 경우 vs코드 편집기 상에서 에러들을 먼저 확인할 수 있다는 장점이 있다.
+  // ddd
 })
 
 function startApp() {
